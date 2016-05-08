@@ -1,0 +1,16 @@
+dependencies:
+  - name: jsme
+    version: 2016-04-27
+    src: htmlwidgets/lib/jsme
+    script:
+      - jsme.nocache.js
+    stylesheet:
+      - jsa.css
+
+# (uncomment to add a dependency)
+# dependencies:
+#  - name:
+#    version:
+#    src:
+#    script:
+#    stylesheet:
